@@ -19,7 +19,9 @@ React.js, JavaScript, HTML, CSS, Node.js, MongoDB, Java
 npm install
 npm start
 🌐 Live Demo
-https://6a09a96e5d101439e1c6b9c9--transcendent-cat-7b1144.netlify.app/
+transcendent-cat-7b1144.netlify.app
+
+Last deployed from Netlify Drop
 
 
 
