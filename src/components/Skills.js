@@ -24,7 +24,7 @@ function Skills() {
                                             {
                                                 item.skillname.map((skillnames) => (
                                                     <button type="button" className="btn btn-lg skill-btn" disabled>
-                                                        <img src={iconpath + skillnames.image + ".png"} className="skill-icon mx-2" alt='Vandit Shah Skills - icons' />
+                                                        <img src={iconpath + skillnames.image + ".png"} className="skill-icon mx-2" alt='SINDHU HARINI Skills - icons' />
                                                         {skillnames.name}
                                                     </button>
                                                 ))

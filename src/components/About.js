@@ -22,7 +22,7 @@ const About = () => {
                                 className="about-img img-fluid"
                                 width={880}
                                 height={880}
-                                alt={"Vandit Shah's headshot"} />
+                                alt={"SINDHU HARINI headshot"} />
                         </div>
                         <div className="col-12 col-md-8 about-text">
                             {
